@@ -1,0 +1,8 @@
+/* assets/css/estilo.css – ajustes visuais por cima do Bootstrap */
+:root { --bs-primary:#1d4ed8; --bs-primary-rgb:29,78,216; --bs-link-color:#1d4ed8; }
+body { background:#f4f6fa; }
+.bg-escuro { background:#14213d; }
+.navbar .nav-link.active { font-weight:600; border-bottom:2px solid #fca311; }
+.btn-primary { --bs-btn-bg:#1d4ed8; --bs-btn-border-color:#1d4ed8; --bs-btn-hover-bg:#1740b0; --bs-btn-hover-border-color:#1740b0; }
+.card { border:0; }
+.cartao-numero { font-size:2rem; font-weight:700; line-height:1; }
